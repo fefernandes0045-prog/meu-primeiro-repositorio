@@ -1,4 +1,4 @@
-Meu nome e felipe tenh 17 anos
-sonho em ser programador independendte da area
-mais o principal objetivos e trabalhar com vendas
+Meu nome e felipe tenho 17 anos
+Sonho em ser emprendedor independente da area
+Mais o principal objetivos e trabalhar com vendas
 # meu-primeiro-repositorio
